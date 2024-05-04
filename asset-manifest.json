@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.0c5402a3.css",
-    "main.js": "/static/js/main.c3774d39.js",
-    "static/media/album-cover-final15.jpg": "/static/media/album-cover-final15.8a917c995960835242ce.jpg",
-    "static/media/merch_demon.png": "/static/media/merch_demon.a271ae70bd8bb8e91ac8.png",
-    "static/media/demon.png": "/static/media/demon.75f9011caac8ae521f77.png",
-    "static/media/Cerebral Invasion Band 4JPG.JPG": "/static/media/Cerebral Invasion Band 4JPG.e7f5c2be028ffc1ae394.JPG",
-    "static/media/blood(1).png": "/static/media/blood(1).f7d3018eb68bc320b2bd.png",
-    "static/media/skulls(2).png": "/static/media/skulls(2).c7bb82b56a5d9b90908b.png",
-    "static/media/HelpMe.ttf": "/static/media/HelpMe.3fae86254733aff3e3b1.ttf",
-    "static/media/logo-white-trademark.png": "/static/media/logo-white-trademark.f93f3031f123b5b602cf.png",
-    "index.html": "/index.html",
-    "main.0c5402a3.css.map": "/static/css/main.0c5402a3.css.map",
-    "main.c3774d39.js.map": "/static/js/main.c3774d39.js.map"
+    "main.css": "/sklempna.github.io/static/css/main.3d35c633.css",
+    "main.js": "/sklempna.github.io/static/js/main.9f87549d.js",
+    "static/media/album-cover-final15.jpg": "/sklempna.github.io/static/media/album-cover-final15.8a917c995960835242ce.jpg",
+    "static/media/merch_demon.png": "/sklempna.github.io/static/media/merch_demon.a271ae70bd8bb8e91ac8.png",
+    "static/media/demon.png": "/sklempna.github.io/static/media/demon.75f9011caac8ae521f77.png",
+    "static/media/Cerebral Invasion Band 4JPG.JPG": "/sklempna.github.io/static/media/Cerebral Invasion Band 4JPG.e7f5c2be028ffc1ae394.JPG",
+    "static/media/blood(1).png": "/sklempna.github.io/static/media/blood(1).f7d3018eb68bc320b2bd.png",
+    "static/media/skulls(2).png": "/sklempna.github.io/static/media/skulls(2).c7bb82b56a5d9b90908b.png",
+    "static/media/HelpMe.ttf": "/sklempna.github.io/static/media/HelpMe.3fae86254733aff3e3b1.ttf",
+    "static/media/logo-white-trademark.png": "/sklempna.github.io/static/media/logo-white-trademark.f93f3031f123b5b602cf.png",
+    "index.html": "/sklempna.github.io/index.html",
+    "main.3d35c633.css.map": "/sklempna.github.io/static/css/main.3d35c633.css.map",
+    "main.9f87549d.js.map": "/sklempna.github.io/static/js/main.9f87549d.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c5402a3.css",
-    "static/js/main.c3774d39.js"
+    "static/css/main.3d35c633.css",
+    "static/js/main.9f87549d.js"
   ]
 }
