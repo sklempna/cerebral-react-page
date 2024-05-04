@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/cerebral-react-page/static/css/main.0502137b.css",
+    "main.js": "/cerebral-react-page/static/js/main.ae21ec32.js",
+    "static/media/album-cover-final15.jpg": "/cerebral-react-page/static/media/album-cover-final15.8a917c995960835242ce.jpg",
+    "static/media/merch_demon.png": "/cerebral-react-page/static/media/merch_demon.a271ae70bd8bb8e91ac8.png",
+    "static/media/demon.png": "/cerebral-react-page/static/media/demon.75f9011caac8ae521f77.png",
+    "static/media/Cerebral Invasion Band 4JPG.JPG": "/cerebral-react-page/static/media/Cerebral Invasion Band 4JPG.e7f5c2be028ffc1ae394.JPG",
+    "static/media/blood(1).png": "/cerebral-react-page/static/media/blood(1).f7d3018eb68bc320b2bd.png",
+    "static/media/skulls(2).png": "/cerebral-react-page/static/media/skulls(2).c7bb82b56a5d9b90908b.png",
+    "static/media/HelpMe.ttf": "/cerebral-react-page/static/media/HelpMe.3fae86254733aff3e3b1.ttf",
+    "static/media/logo-white-trademark.png": "/cerebral-react-page/static/media/logo-white-trademark.f93f3031f123b5b602cf.png",
+    "index.html": "/cerebral-react-page/index.html",
+    "main.0502137b.css.map": "/cerebral-react-page/static/css/main.0502137b.css.map",
+    "main.ae21ec32.js.map": "/cerebral-react-page/static/js/main.ae21ec32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0502137b.css",
+    "static/js/main.ae21ec32.js"
+  ]
+}
