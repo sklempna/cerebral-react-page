@@ -8,7 +8,7 @@ module.exports = {
       },
       backgroundImage: {
         skulls: "url('../src/assets/img/skulls(2).png')",
-        demon: "url('../src/assets/img/demon.png')",
+        demon: "url('../src/assets/img/demon.jpg')",
         blood: "url('../src/assets/img/blood(1).png')",
       },
       keyframes: {

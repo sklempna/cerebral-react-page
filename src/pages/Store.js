@@ -1,5 +1,5 @@
 import React from "react";
-import merchDemon from "../assets/img/merch_demon.png";
+import merchDemon from "../assets/img/merch_demon.jpg";
 
 function Store() {
   return (
