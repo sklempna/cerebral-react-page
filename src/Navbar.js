@@ -10,7 +10,7 @@ function Navbar() {
 
   return (
     <div>
-      <nav class="flex md:container py-5 md:mx-auto justify-between items-center bg-black text-white">
+      <nav class="flex md:container pt-5 md:mx-auto justify-between items-center bg-black text-white">
         {/* <!-- Logo & Menu --> */}
         <div class="flex px-10 items-center">
           <div>

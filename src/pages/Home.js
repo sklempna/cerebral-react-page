@@ -12,7 +12,7 @@ function Home() {
         <h1 class="text-xl lg:text-4xl">New Album Out Now</h1>
         <div
           href="#"
-          class="hover:animate-jitter cursor-pointer text-lg lg:text-xl bg-gray-900 px-5 py-3 hover:bg-red-800 transition duration-500"
+          class="cursor-pointer text-lg lg:text-xl bg-gray-900 px-5 py-3 hover:bg-red-800 transition duration-500"
         >
           <Link to="/Store">Order Now</Link>
         </div>
