@@ -6,7 +6,7 @@ import albumpic from "../assets/img/album-cover-final15.jpg";
 
 function Home() {
   return (
-    <div class="container mx-auto mt-10">
+    <div class="container mx-auto mt-5">
       {/* <!-- New Album Section --> */}
       <div class="bg-demon bg-center py-5 md:py-10 flex flex-col items-center space-y-5 md:space-y-10 lg:bg-cover backdrop-blur-sm text-white">
         <h1 class="text-xl lg:text-4xl">New Album Out Now</h1>
@@ -50,7 +50,7 @@ function Home() {
       {/* <!-- youtube video --> */}
       <div class="bg-blood bg-cover">
         <iframe
-          class="mx-auto py-20 w-2/3 md:w-[680px] md:h-[454px] xl:w-[1024px] xl:h-[880px]"
+          class="mx-auto py-20 w-screen h-[500px] md:w-[680px] md:h-[500px] xl:w-[1024px] xl:h-[880px]"
           src="https://www.youtube.com/embed/ntQbczrVNHs?si=SYtSVyjd0VLhO2QT"
           title="YouTube video player"
           frameborder="0"
