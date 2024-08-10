@@ -12,6 +12,7 @@ module.exports = {
         blood: "url('../src/assets/img/blood(1).png')",
         exumer_tour: "url('../src/assets/img/exumer_tour.png')",
         tour: "url('../src/assets/img/tour_background.jpeg')",
+        live: "url('../src/assets/img/live_background.jpeg')",
       },
       keyframes: {
         jitter: {

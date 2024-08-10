@@ -34,6 +34,18 @@ function Home() {
           />
         </div>
       </div>
+      {/* <!-- live youtube video --> */}
+      <div class="bg-live bg-cover">
+        <iframe
+          class="mx-auto py-20 w-screen h-[500px] md:w-[680px] md:h-[500px] xl:w-[1024px] xl:h-[880px]"
+          src="https://www.youtube.com/embed/KQVpehmutNw"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen
+        ></iframe>
+      </div>
       {/* <!-- Band members --> */}
       <div>
         <div class="flex justify-center text-gray-300 text-center text-md md:text-2xl pt-10 md:pt-20">
