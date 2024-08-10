@@ -3,10 +3,19 @@ import { Link } from "react-router-dom";
 
 import bandpic from "../assets/img/Cerebral Invasion Band 4JPG.JPG";
 import albumpic from "../assets/img/album-cover-final15.jpg";
+import exumertourpic from "../assets/img/exumer_tour.png";
+import tourbackgroundpic from "../assets/img/tour_background.jpeg";
 
 function Home() {
   return (
-    <div class="container mx-auto mt-5">
+    <div class="container mx-auto mt-5 pb-10">
+      {/* <!-- Tour Section --> */}
+      <div class="bg-tour bg-center py-5 md:py-10 flex flex-col items-center space-y-5 md:space-y-10 lg:bg-cover backdrop-blur-sm text-white">
+        <h1 class="py-5 text-4xl text-gray-900">Tour 2024</h1>
+        <div class="">
+          <img src={exumertourpic} class="w-2/3 lg:w-1/2 mx-auto" alt="" />
+        </div>
+      </div>
       {/* <!-- New Album Section --> */}
       <div class="bg-demon bg-center py-5 md:py-10 flex flex-col items-center space-y-5 md:space-y-10 lg:bg-cover backdrop-blur-sm text-white">
         <h1 class="text-xl lg:text-4xl">New Album Out Now</h1>

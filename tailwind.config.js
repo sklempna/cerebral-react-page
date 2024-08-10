@@ -10,6 +10,8 @@ module.exports = {
         skulls: "url('../src/assets/img/skulls(2).png')",
         demon: "url('../src/assets/img/demon.jpg')",
         blood: "url('../src/assets/img/blood(1).png')",
+        exumer_tour: "url('../src/assets/img/exumer_tour.png')",
+        tour: "url('../src/assets/img/tour_background.jpeg')",
       },
       keyframes: {
         jitter: {
