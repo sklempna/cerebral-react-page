@@ -3,6 +3,45 @@ import React from "react";
 function Live() {
   const nextShows = [
     {
+      key: "8",
+      date: "10 August 2024",
+      description: "RC Nordbayern, Selb (DE) w. Exumer & Hirax",
+      ticket_link: "https://www.eventim.de",
+    },
+    {
+      key: "9",
+      date: "14 August 2024",
+      description: "Musicon, The Hague (NLD) w. Exumer & Hirax",
+      ticket_link: "https://www.eventim.de",
+    },
+    {
+      key: "10",
+      date: "15 August 2024",
+      description: "Engelenbak, Doetinchem (NLD) w. Exumer & Hirax",
+      ticket_link: "https://www.eventim.de",
+    },
+    {
+      key: "11",
+      date: "16 August 2024",
+      description:
+        "Hypothalamus, Rheine (DE) w. Flotsam & Jetsam, Exumer, Hirax",
+      ticket_link: "https://www.eventim.de",
+    },
+    {
+      key: "12",
+      date: "13./14. September 2024",
+      description: "Storm Crusher Fest, Püchersreuth (DE)",
+      ticket_link: "https://www.storm-crusher.de",
+    },
+  ];
+
+  const pastShows = [
+    {
+      key: "3",
+      date: "4 May 2024",
+      description: "Stormcrusher Contest, Nürnberg (DE)",
+    },
+    {
       key: "1",
       date: "18 May 2024",
       description: "Kopf und Kragen, Fürth (DE)",
@@ -15,13 +54,29 @@ function Live() {
       ticket_link:
         "https://www.helldiest.com/event-info/primal-creation-cerebral-invasion-tenebris-luna",
     },
-  ];
-
-  const pastShows = [
     {
-      key: "3",
-      date: "4 May 2024",
-      description: "Stormcrusher Contest, Nürnberg (DE)",
+      key: "4",
+      date: "05 August 2024",
+      description: "Kamienna12, Krakow (POL) w. Exumer & Hirax",
+      ticket_link: "#",
+    },
+    {
+      key: "5",
+      date: "06 August 2024",
+      description: "Hydrozagadka, Warsaw (POL) w. Exumer & Hirax",
+      ticket_link: "#",
+    },
+    {
+      key: "6",
+      date: "08 August 2024",
+      description: "Escape, Vienna (AUT) w. Exumer & Hirax",
+      ticket_link: "#",
+    },
+    {
+      key: "7",
+      date: "09 August 2024",
+      description: "Zauberberg, Passau (DE) w. Exumer & Hirax",
+      ticket_link: "#",
     },
   ];
 
